@@ -9,7 +9,7 @@
 - 🌱 Currently learning **React.js** deeply and improving my full-stack skills
 - 💬 Ask me about anything related to **HTML, CSS, JS, Node.js, Express, PHP, Laravel**
 - 🎯 Goal: Become a top-notch full stack developer and contribute to real-world projects
-- 📫 Reach me at: azeemkhan10309@example.com (replace with real one)
+- 📫 Reach me at: fqr.azzy786@gmail.com (replace with real one)
 
 ---
 
